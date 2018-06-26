@@ -1,0 +1,19 @@
+var fecha_solicitud = "11-06-2018";
+var nombre_completo = "pepito perez";
+var fecha_nacimiento = "20-11-2002";
+var correo = "pepitoperez123@ejemplo.com";
+var telefono = "2819137";
+var genero = "masculino";
+var departamento = "Antioquia";
+var ciudad = "medellin";
+var direccion = "calle 47 A #59-57";
+var seleccione_domicilio = "apartamento";
+var numero_integrantes = 2;
+var razon_adopcion = "para brindar comodidad y alegria";
+var experiencia_animales = "no";
+var tienes_mascotas = "no";
+var ingresos_mensuales = 500000;
+var ingresos_mascota = 200000;
+var tiempo_mascota = 4;
+var ausencia = "marinita gutierrez";
+
